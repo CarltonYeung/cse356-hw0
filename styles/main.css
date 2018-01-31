@@ -1,0 +1,10 @@
+#greeting {
+    text-align: center;
+}
+
+#cat {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
